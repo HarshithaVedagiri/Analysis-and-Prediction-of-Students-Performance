@@ -1,0 +1,21 @@
+Analysis and Prediction of Students Performance using Machine Learning Algorithms
+--------
+
+
+Step 1 :- Install a modern standard-compliant browser. Either Mozilla Firefox or Google Chrome will work well. Try to avoid MS Explorer.
+
+Step 2 :- Download Anaconda Distribution (a few 100MB) for Jupyter Notebook, Python 3, 64 bits.
+
+Step 3 :- Install it using the default settings for a single user.
+
+Step 4 :- Open Jupyter Notebook. This would result in a browser window opening.
+
+Step 5 :- Navigate to the folder which contains program source code. In this case, it is named "Student Performance Analysis.ipynb".
+
+Step 6 :- Open the file and in cell 2, change the file path for the CSV files "student-mat.csv" and "student-por.csv" provided.
+
+Step 7 :- Run each cell (ie section of the code).
+
+Step 8 :- Observe resultant visualizations.
+
+Step 9 :- The file, "Machine Learning Efficiency.ipynb", contains the test cases done for the machine learning algorithms such as SVM, Decision Tree, Random Forest and Logistic Regression.
